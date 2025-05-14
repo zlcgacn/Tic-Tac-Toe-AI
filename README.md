@@ -2,6 +2,10 @@
 
 This project implements a Tic-Tac-Toe game where a human player can play against an AI opponent. The AI uses the minimax algorithm to determine the optimal move.
 
+## Video Demo
+
+[Project Demo Video](https://www.youtube.com/watch?v=8IjpOpL0ZXM&ab_channel=%E6%9D%B1%E9%A2%A8%E7%A5%9E) 
+
 ## Files
 
 *   `tictactoe.py`: Contains all the core game logic, including functions to:
